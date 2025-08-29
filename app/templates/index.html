@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="text-center py-5">
+  <h1 class="mb-3">Welcome to Todo app</h1>
+  <p class="lead">Sign up to start organizing your tasks and projects.</p>
+  <a href="{{ url_for('auth.register') }}" class="btn btn-primary">Create an account</a>
+  <a href="{{ url_for('auth.login') }}" class="btn btn-outline-secondary ms-2">Log in</a>
+</div>
+{% endblock %}
