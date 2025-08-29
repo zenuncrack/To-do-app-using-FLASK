@@ -12,6 +12,10 @@
     This app allows users to <strong>register, log in, and manage their tasks</strong> in an intuitive interface.
   </p>
 
+  <p><strong>🌐 Live Demo:</strong> <a href="https://to-do-app-using-flask.onrender.com" target="_blank">
+    https://to-do-app-using-flask.onrender.com
+  </a></p>
+
   <hr>
 
   <h2>🚀 Features</h2>
