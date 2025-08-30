@@ -86,10 +86,7 @@ gunicorn==22.0.0</code></pre>
   <h2>🤝 Contributing</h2>
   <p>Pull requests are welcome!<br>
   If you’d like to contribute, please fork the repo and submit a PR.</p>
-
-  <h2>📜 License</h2>
-  <p>This project is licensed under the <strong>MIT License</strong>.</p>
-
+  
   <hr>
   <p>💡 <em>Happy Coding! Build your productivity with this To-Do app.</em></p>
 
